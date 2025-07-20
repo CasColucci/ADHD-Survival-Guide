@@ -8,7 +8,7 @@ Who is it written for? The real answer is "for myself from a few years ago", but
 
 A note on structure: I’m building this guide as I continue to learn, so consider it a living document. My goal is to keep things in a logical order, but I'm hoping to help folks and be honest that I'm always still learning myself. If you have thoughts, questions, or suggestions, feel free to reach out.
 
-Last thing: there will be a single section about using AI. I feel it can be a good tool, but I understand it's not for everyone, so I specifically wanted to isolate the section so it's easily skippable. I'll keep all AI talks out of the rest of the guide. Also, I wrote this guide by hand, but AI helped find articles and organize my notes (more about this in the AI section). 
+Last thing: there will be a single section about using AI (nonexistent right now). I feel it can be a good tool, but I understand it's not for everyone, so I specifically wanted to isolate the section so it's easily skippable. I'll keep all AI talks out of the rest of the guide. Also, I wrote this guide by hand, but AI helped find articles and organize my notes (more about this in the AI section). 
 
 Without further ado, let's begin!
 ## Part 2: Why You Are The Way You Are
